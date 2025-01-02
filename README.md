@@ -157,3 +157,10 @@ npm run dev
 This project is licensed under the MIT License. 📜  
 
 ---
+Contact 📧
+
+If you have any questions or feedback, feel free to reach out:
+
+Email: govardhanarao27@gmail.com
+GitHub: https://github.com/Govardhanaraokotla
+---
