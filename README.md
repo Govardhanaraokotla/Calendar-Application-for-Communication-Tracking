@@ -102,21 +102,17 @@ calendar-app/
 ├── README.md  
 ├── vite.config.js  
 ```  
-API Endpoints
+## API Endpoints 🚀
 
-Communication Records:
+### 📞 Communication Records:
+- `GET /api/communications` - Retrieve all communications.
+- `POST /api/communications` - Create a new communication record.
+- `PUT /api/communications/:id` - Update a communication record.
+- `DELETE /api/communications/:id` - Delete a communication record.
 
-GET /api/communications - Retrieve all communications.
+### 📢 Notifications:
+- `GET /api/notifications` - Retrieve notifications for overdue tasks.
 
-POST /api/communications - Create a new communication record.
-
-PUT /api/communications/:id - Update a communication record.
-
-DELETE /api/communications/:id - Delete a communication record.
-
-Notifications:
-
-GET /api/notifications - Retrieve notifications for overdue tasks.
 ---
 
 ## 🚀 Getting Started  
